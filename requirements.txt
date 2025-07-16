@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy>=2.0
+aiosqlite
+jinja2
+requests
+parsel
+pytest
+httpx
+pytest-asyncio
+pytest-cov
